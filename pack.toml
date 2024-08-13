@@ -1,0 +1,13 @@
+name = "Testing 3.3 Power Machines AE2"
+author = "Dartis_Xui"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7df7a9aede36be446628835bf974455c5d57604ca4b8c7aa38a338b9d2bfb94d"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
