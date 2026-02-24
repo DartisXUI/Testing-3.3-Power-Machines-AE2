@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "3ef0d324c6ab0c5e6b47ba711ce019662a3d0c41c8a2caa36878336e9947eed7"
+hash = "f54a768fc42a0c608923ccad9775e4a76b6ba916027108d45b7fd39961cff6de"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/genetics-reborn.pw.toml"
-hash = "ea5fb608e14fadf0e0c60d2d9940938568c415d0062d8974ed62ab64c45dd815"
+hash = "b8ab461a5bbeb159fa697be26113467520bbbb515e3b6db409c2a6b23633b943"
 metafile = true
 
 [[files]]
@@ -472,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/ranged-pumps.pw.toml"
 hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
 metafile = true
 
 [[files]]
